@@ -2,245 +2,245 @@
   {
     "objectID": "index.html#outline",
     "href": "index.html#outline",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Outline",
     "text": "Outline\n\n\nSummarise FAIR principles and reproducible research (Nick)\nTalk about Quarto, one tool in your toolkit (Unai)\nMake a presentation in Quarto (Nick & you)\nCompare PowerPoint and Quarto (Jan)\nDemo creating and updating slides in realtime using GitHub Actions (Jan)\nQuestions (you)"
   },
   {
     "objectID": "index.html#our-target-audience",
     "href": "index.html#our-target-audience",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Our Target Audience",
     "text": "Our Target Audience\n\nFamiliar with FAIR principles and reproducible research\nNot familiar with doing it in practice\nPreaching to the choir\n\n\n\nLearning objectives\n\nYou can create reproducible teaching materials collaboratively using tools like Quarto and Git(Hub)\nYou will do some of this today, and know where to go to develop your skills"
   },
   {
     "objectID": "index.html#what-are-fair-principles",
     "href": "index.html#what-are-fair-principles",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "What are FAIR Principles?",
     "text": "What are FAIR Principles?\n\n\nFindable\n\nDescriptive metadata and persistent identifier (DOI)\n\nAccessible\n\nData could be openly available OR access via authentication and if needed\n\nInteroperable\n\nData needs to be integrated with other data and interoperate with applications or workflows (Open formats)\n\nReusable\n\nDocumentation and license (Open license - e.g. Creative Commons)\n\n\n\n\n\nby Scriberia for The Turing Way community (CC-BY 4.0)"
   },
   {
     "objectID": "index.html#how-does-fair-apply-to-teaching-materials",
     "href": "index.html#how-does-fair-apply-to-teaching-materials",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "How does FAIR apply to teaching materials?",
     "text": "How does FAIR apply to teaching materials?\n\n\n\n\nFindable/Accessible\n\nShare your slides/materials on a data repository to receive a DOI and ensure long term preservation\nShare your materials via a journal article\nShare your materials in a training material registry\n\n\n\n\n\nInteroperable\n\nUse commonly used formats (PowerPoint / Word) or open formats such as Markdown or Quarto documents (PDF)\nUse common terminology\nIntegrate with other resources where possible\n\n\n\n\nReusable\n\nAdd documentation\nAdd metadata\nShare under an Open License such as CC-BY"
   },
   {
     "objectID": "index.html#what-is-reproducibility",
     "href": "index.html#what-is-reproducibility",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "What is Reproducibility?",
     "text": "What is Reproducibility?\n“[…] when the same analysis steps performed on the same dataset […] produce the same answer.” (Turing Way)\n\nby Scriberia for The Turing Way community (CC-BY 4.0)"
   },
   {
     "objectID": "index.html#how-does-reproducibility-apply-to-teaching-materials",
     "href": "index.html#how-does-reproducibility-apply-to-teaching-materials",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "How does reproducibility apply to teaching materials?",
     "text": "How does reproducibility apply to teaching materials?\nComes close to the Interoperability and Reusable principles:\n\nIntegrating materials (minimise duplication)\nFormatting\nSoftware/code\nSimilar learning goals/objectives and outcomes\n\n\n\nPractice what you preach!\nBy setting up your teaching materials in a reproducible manner, you demonstrate the value of reproducibility directly\n\nUseful for others\nUseful for future you when you teach this course again"
   },
   {
     "objectID": "index.html#fair-and-reproducible-training-materials-are-beneficial-to-you",
     "href": "index.html#fair-and-reproducible-training-materials-are-beneficial-to-you",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "FAIR and reproducible training materials are beneficial to you!",
     "text": "FAIR and reproducible training materials are beneficial to you!\n\n\n\nInformation sheets saves time in sharing information\nClear communication (or you can update the information!)\nSaves time in on-boarding/re-using materials\nPreserved & Findable\nEasy to share within and outside your team\nProvides you and collaborators with credit (visibility, DOI, citations)\n\n\n\n\n\nby Scriberia for The Turing Way community (CC-BY 4.0)"
   },
   {
     "objectID": "index.html#fair-and-reproducible-training-materials-are-beneficial-to-us",
     "href": "index.html#fair-and-reproducible-training-materials-are-beneficial-to-us",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "FAIR and reproducible training materials are beneficial to us!",
     "text": "FAIR and reproducible training materials are beneficial to us!\n\n\nFAIR and reproducible training materials are beneficial to Nick, Jan and Unai 😀\nWe used the Reproducible and FAIR Teaching Materials slides from the Aug 2023 Train the Trainer programme\nThank you very much to Esther Plomp and Lennart Wittkuhn 🙏 whose Quarto slides we used and developed!\n\n\nEsther Plomp\n e.plomp@tudelft.nl  estherplomp.github.io  GitHub  Mastodon\n\n\nLennart Wittkuhn\n lennart.wittkuhn@uni-hamburg.de  lennartwittkuhn.com  GitHub  Mastodon\n\n\n\n\nby Scriberia for The Turing Way community (CC-BY 4.0)"
   },
   {
     "objectID": "index.html#outline-1",
     "href": "index.html#outline-1",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Outline",
     "text": "Outline\n\nSummarise FAIR principles and reproducible research (Nick)\nTalk about Quarto, one tool in your toolkit (Unai)\nbreak\nShow you how to make a presentation in Quarto (Nick)\nCompare PowerPoint and Quarto (Jan)\nDemo creating and updating slides in realtime using GitHub Actions (Jan)\nQuestions (you)"
   },
   {
     "objectID": "index.html#about-quarto",
     "href": "index.html#about-quarto",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "About Quarto",
     "text": "About Quarto\n\n\nQuarto is a new, open-source, scientific and technical publishing system\nCombine text and code to produce formatted documents\nPublish reproducible and dynamic presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, etc.\nMulti-language support for R, Python, Julia, and more\nQuarto extends RMarkdown and shares similarities with Juypter Notebooks.\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst."
   },
   {
     "objectID": "index.html#formats",
     "href": "index.html#formats",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Formats",
     "text": "Formats\n\n\nDocuments: HTML, PDF, MS Word, Open Office, ePub\nPresentations: Revealjs, PowerPoint,\nWikis: MediaWiki, JiraWiki, …\nMany templates exist for academic documents: quarto-journals\nAnd much more: Jupyter, RTF, InDesign, …\n\n\n\n\n\n\n\n\ntaken from quarto-journals\n\n\n\n\n\n\n\n\ntaken from quarto gallery\n\n\n\n\n\n\n\n\ntaken from quarto gallery"
   },
   {
     "objectID": "index.html#how-does-quarto-work",
     "href": "index.html#how-does-quarto-work",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "How does Quarto work?",
     "text": "How does Quarto work?\n\ntaken from What is Quarto - A Quick Intro FAQ"
   },
   {
     "objectID": "index.html#qmd",
     "href": "index.html#qmd",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": ".qmd",
     "text": ".qmd\n\nqmd file"
   },
   {
     "objectID": "index.html#ipynb",
     "href": "index.html#ipynb",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": ".ipynb",
     "text": ".ipynb\n\njupyter notebook"
   },
   {
     "objectID": "index.html#tools",
     "href": "index.html#tools",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Tools",
     "text": "Tools\n\n\n  \n\n\n\n$ quarto render hello.qmd --to doxc"
   },
   {
     "objectID": "index.html#a-.qmd-and-.rmd-file",
     "href": "index.html#a-.qmd-and-.rmd-file",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "A .qmd (and .rmd) file",
     "text": "A .qmd (and .rmd) file\n---\ntitle: \"My document\"\nformat: html\n---\n. . .\n# Introduction\n\n*Hello Quarto!*\n\n```{r}\nsummary(cars)\n```"
   },
   {
     "objectID": "index.html#rendered-output",
     "href": "index.html#rendered-output",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Rendered Output",
     "text": "Rendered Output"
   },
   {
     "objectID": "index.html#yaml-header",
     "href": "index.html#yaml-header",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "YAML header",
     "text": "YAML header\n\n\n---\ntitle: \"My document\"\nauthor: John Doe\ndate: today\n\nformat:\n  html:\n    toc: true\nengine: knitr\n\nexecute:\n  echo: false\n\nparams:\n  year: 2023\n  country: \"Germany\"\n  alpha: 0.05\n\n# bibliography: references.bib\n---\n\nRich set of rendering options for Pandoc, Quarto and Knitr"
   },
   {
     "objectID": "index.html#markdown-text",
     "href": "index.html#markdown-text",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Markdown text",
     "text": "Markdown text\n\n\n\nSyntax\nOutput\n\n\n\n\n*Italic*\nItalic\n\n\n**Bold**\nBold\n\n\n~~strikethrough~~\nstrikethrough\n\n\n[Link](url)\nLink\n\n\ni\\hbar \\frac{\\partial \\Psi}{\\partial t} = -\\frac{\\hbar^2}{2m} \\nabla^2 \\Psi + V(\\mathbf{r},t) \\Psi\n\\(i\\hbar \\frac{\\partial \\Psi}{\\partial t} = -\\frac{\\hbar^2}{2m} \\nabla^2 \\Psi + V(\\mathbf{r},t) \\Psi\\)"
   },
   {
     "objectID": "index.html#code-chunks",
     "href": "index.html#code-chunks",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Code chunks",
     "text": "Code chunks\n\ndata(iris)\n\nplot(iris$Sepal.Length, iris$Sepal.Width, \n     main = \"Scatter Plot of Sepal Length vs Sepal Width\",\n     xlab = \"Sepal Length (cm)\",\n     ylab = \"Sepal Width (cm)\",\n     pch = 16, col = iris$Species)"
   },
   {
     "objectID": "index.html#code-chunks-1",
     "href": "index.html#code-chunks-1",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Code chunks",
     "text": "Code chunks\n\n```{r}\n#| label: \"iris-plot\"\n#| echo: TRUE\n#| fig-format: svg\n#| cache: TRUEs\n\ndata(iris)\n\nplot(iris$Sepal.Length, iris$Sepal.Width, \n     main = \"Scatter Plot of Sepal Length vs Sepal Width\",\n     xlab = \"Sepal Length (cm)\",\n     ylab = \"Sepal Width (cm)\",\n     pch = 16, col = iris$Species)\n\n```\ndefaults to knitr engine (you can override the engine with engine: jupyter)\n\n\n```{python}\n#| label: fig-polar\n#| fig-cap: \"A line plot on a polar axis\"\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n```\ndefaults to jupyter engine\n\n\nYou can use Python and R code together using the reticulate package"
   },
   {
     "objectID": "index.html#quarto-showcase",
     "href": "index.html#quarto-showcase",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Quarto Showcase",
     "text": "Quarto Showcase\n\n\nFragments\n\nFade in\n\n\nFade out\n\n\nHighlight red\n\n\nFade in, then out\n\n\nSlide up while fading in\n\n\n\nTabSet\n\n\nHello…\n\n\n…World”"
   },
   {
     "objectID": "index.html#quarto-showcase-1",
     "href": "index.html#quarto-showcase-1",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Quarto Showcase",
     "text": "Quarto Showcase\n\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlotData\n\n\n\nPlot.rectY(filtered, \n  Plot.binX(\n    {y: \"count\"}, \n    {x: \"body_mass_g\", fill: \"species\", thresholds: 20}\n  ))\n  .plot({\n    facet: {\n      data: filtered,\n      x: \"sex\",\n      y: \"species\",\n      marginRight: 80\n    },\n    marks: [\n      Plot.frame(),\n    ]\n  }\n)\n\n\n\n\n\n\n\n\n\nInputs.table(filtered)\n\n\n\n\n\n\n\n\n\n\ndata = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })\n\n\n\n\n\n\n\nfiltered = data.filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})"
   },
   {
     "objectID": "index.html#outline-2",
     "href": "index.html#outline-2",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Outline",
     "text": "Outline\n\nSummarise FAIR principles and reproducible research (Nick)\nTalk about Quarto, one tool in your toolkit (Unai)\nbreak\nShow you how to make a presentation in Quarto (Nick)\nCompare PowerPoint and Quarto (Jan)\nDemo creating and updating slides in realtime using GitHub Actions (Jan)\nQuestions (you)"
   },
   {
     "objectID": "index.html#creating-a-quarto-slidedeck",
     "href": "index.html#creating-a-quarto-slidedeck",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Creating a Quarto slidedeck",
     "text": "Creating a Quarto slidedeck\n\nI will do a short demo (~4 min) about creating and updating a Quarto slide deck in RStudio Cloud. You do not need to follow along.\nThen I will split the group into breakout rooms (3-4 per room) and you can try it yourselves (for about 15 min).\nInstructions are on the next slides\nPoll - who has used R or RStudio before (even just a little bit)? Yes | No"
   },
   {
     "objectID": "index.html#demo-1",
     "href": "index.html#demo-1",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Demo 1",
     "text": "Demo 1\n\nThis is your RStudio window:"
   },
   {
     "objectID": "index.html#demo-2",
     "href": "index.html#demo-2",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Demo 2",
     "text": "Demo 2\n\nChoose: File &gt; New File &gt; Quarto Presentation…\n\n\n\ngive it a title, e.g. “Presentation”\nclick Create\nthis is your presentation"
   },
   {
     "objectID": "index.html#demo-3",
     "href": "index.html#demo-3",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Demo 3",
     "text": "Demo 3\n\nWe are in Visual mode - you can type in and see changes in real time.\nSlide list is on the right.\nTo add a slide, type in some text.\nSet it to Header 2 - you will see it appear in the list.\nCan do Visual mode or Source mode.\n\n\n\nYou can make changes in either and both will update."
   },
   {
     "objectID": "index.html#demo-4",
     "href": "index.html#demo-4",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Demo 4",
     "text": "Demo 4\n\nTo see the slides we need to Render\nThis converts the Quarto code to slides you can look and and share (in HTML, you can also export as PDF).\nBefore we do this, we have an issue:\n\n\n\nClick Install to install the library.\nThen click \nSlides will open in a new window."
   },
   {
     "objectID": "index.html#now-try-on-your-own",
     "href": "index.html#now-try-on-your-own",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Now try on your own!",
     "text": "Now try on your own!\n\nAny questions before we start?\nThen I will split the group into breakout rooms (3-4 per room) and you can try it yourselves. You have ~15 min.\nTry some of the codes Unai introduced\nCheck out these links for more ideas:\n\nhttps://quarto.org/docs/get-started/hello/rstudio.html\n\nhttps://quarto.org/docs/presentations/\n\n\nYou can do this on RStudio Cloud or your own copy of RStudio\n\nYou will need to download and install Quarto CLI:\nhttps://quarto.org/docs/get-started/\nCan also run in VS Code, Jupyter, Neovim or Text Editor\n\n\n\n\n\n−+\n15:00"
   },
   {
     "objectID": "index.html#strengths-weaknesses-of-quarto-for-teaching",
     "href": "index.html#strengths-weaknesses-of-quarto-for-teaching",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Strengths & Weaknesses of Quarto for teaching",
     "text": "Strengths & Weaknesses of Quarto for teaching\n\n\nStrengths 💪\n\nConsistency in Output\n\nFocus on content\n\nSupport for (Explicit) Version Control (e.g. git)\nGreat for Code (in Slides)\nAutomation / Generated Contents\nInteractivity\n\n\nWeaknesses 😢\n\nHarder to do fine layouting\n\nNo WYSIWYG\n\nNew Syntax to learn\nSoftware Maturity"
   },
   {
     "objectID": "index.html#key-benefit-explicit-version-control",
     "href": "index.html#key-benefit-explicit-version-control",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Key Benefit: (Explicit) Version Control ",
     "text": "Key Benefit: (Explicit) Version Control \n\n\n\n\n\nby Scriberia for The Turing Way community (CC-BY 4.0)\n\n\n\n\nGoing back through time\nGreat for collaboration\nAllow sharing and adaptation\n\nJust like this presentation\n\nAllows automation"
   },
   {
     "objectID": "index.html#demo-course-alumni",
     "href": "index.html#demo-course-alumni",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Demo: Course Alumni 🎉",
     "text": "Demo: Course Alumni 🎉\n\nLet’s check out these slides right here\nCourse Alumni\n\n…Your name here?"
   },
   {
     "objectID": "index.html#additional-resources",
     "href": "index.html#additional-resources",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Additional Resources",
     "text": "Additional Resources\n\nThe Turing Way handbook to reproducible, ethical and collaborative data science\nRichard McElreath (2020). Science as amateur software development. YouTube\nQuarto\n\nQuarto Documentation\nQuarto for Academics by Mine Çetinkaya-Rundel\n\nVersion Control\n\nVersion Control Book\nhttps://github.com/git-guides"
   },
   {
     "objectID": "index.html#thank-you",
     "href": "index.html#thank-you",
-    "title": "How to use Quarto to create Open & Reproducible presentations",
+    "title": "How to use Quarto to create Open & Reproducible Presentations",
     "section": "Thank you! 🙏",
     "text": "Thank you! 🙏\n\n\n\nNick Bearman\n nick@nickbearman.com\n\nhttps://nickbearman.me.uk  GitHub\n\nMastodon\n\n\nUnai Fischer Abaigar\n\nUnai.FischerAbaigar@stat.uni-muenchen.de  GitHub\n\n\nJan Simson\n\nhi@simson.io  GitHub\n\n Images: Scriberia with The Turing Way community (License: CC BY 4.0)\n💻 Slides: Slides are publicly available at github.com/jansim/dra-reproducible-materials\n📦 Software: Reproducible slides build with Quarto and deployed to GitHub Pages using GitHub Actions (details in the Quarto docs)\n Source: Source code is available at github.com/jansim/dra-reproducible-material\n🖲️ DOI: TBC (generated using GitHub + Zenodo, see GitHub docs)\n License: Creative Commons Attribution 4.0 International (CC BY 4.0)\n💬 Contact: We welcome any feedback via email or GitHub issues. Thank you!"
   },
