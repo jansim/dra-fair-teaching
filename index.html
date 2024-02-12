@@ -401,8 +401,13 @@
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">How to use Quarto to create Open &amp; Reproducible presentations</h1>
   <p class="subtitle"></p><p>Digital Research Academy Train the Trainer program</p>
-<p><a href="https://github.com/lnnrtwttkhn/dra-fair-teaching"><i class="fa-brands fa-github" aria-label="github"></i> Source</a> | <a href="https://lennartwittkuhn.com/dra-fair-teaching/"><i class="fa-brands fa-internet-explorer" aria-label="internet-explorer"></i>Slides</a></p>
-<p><a href="https://creativecommons.org/licenses/by/4.0/"><img data-src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: CC BY 4.0"></a> <a href="https://zenodo.org/badge/latestdoi/"><img data-src="https://zenodo.org/badge/.png" alt="DOI"></a></p><p></p>
+<p><a href="https://github.com/jansim/dra-reproducible-materials"><i class="fa-brands fa-github" aria-label="github"></i> Source</a> | <a href="http://simson.io/dra-reproducible-materials/"><i class="fa-brands fa-chrome" aria-label="chrome"></i> Slides</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="https://creativecommons.org/licenses/by/4.0/"><img data-src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: CC BY 4.0"></a></p>
+<figcaption>License: CC BY 4.0</figcaption>
+</figure>
+</div><p></p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -877,16 +882,16 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 <section id="quarto-showcase-1" class="slide level2">
 <h2>Quarto Showcase</h2>
 <div class="cell panel-input">
-<div class="sourceCode cell-code hidden" id="cb7" data-startfrom="537" data-source-offset="-0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 536;"><span id="cb7-537"><a></a>viewof bill_length_min <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">range</span>(</span>
-<span id="cb7-538"><a></a>  [<span class="dv">32</span><span class="op">,</span> <span class="dv">50</span>]<span class="op">,</span> </span>
-<span id="cb7-539"><a></a>  {<span class="dt">value</span><span class="op">:</span> <span class="dv">35</span><span class="op">,</span> <span class="dt">step</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Bill length (min):"</span>}</span>
-<span id="cb7-540"><a></a>)</span>
-<span id="cb7-541"><a></a>viewof islands <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">checkbox</span>(</span>
-<span id="cb7-542"><a></a>  [<span class="st">"Torgersen"</span><span class="op">,</span> <span class="st">"Biscoe"</span><span class="op">,</span> <span class="st">"Dream"</span>]<span class="op">,</span> </span>
-<span id="cb7-543"><a></a>  { <span class="dt">value</span><span class="op">:</span> [<span class="st">"Torgersen"</span><span class="op">,</span> <span class="st">"Biscoe"</span>]<span class="op">,</span> </span>
-<span id="cb7-544"><a></a>    <span class="dt">label</span><span class="op">:</span> <span class="st">"Islands:"</span></span>
-<span id="cb7-545"><a></a>  }</span>
-<span id="cb7-546"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb7" data-startfrom="536" data-source-offset="-0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 535;"><span id="cb7-536"><a></a>viewof bill_length_min <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">range</span>(</span>
+<span id="cb7-537"><a></a>  [<span class="dv">32</span><span class="op">,</span> <span class="dv">50</span>]<span class="op">,</span> </span>
+<span id="cb7-538"><a></a>  {<span class="dt">value</span><span class="op">:</span> <span class="dv">35</span><span class="op">,</span> <span class="dt">step</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Bill length (min):"</span>}</span>
+<span id="cb7-539"><a></a>)</span>
+<span id="cb7-540"><a></a>viewof islands <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">checkbox</span>(</span>
+<span id="cb7-541"><a></a>  [<span class="st">"Torgersen"</span><span class="op">,</span> <span class="st">"Biscoe"</span><span class="op">,</span> <span class="st">"Dream"</span>]<span class="op">,</span> </span>
+<span id="cb7-542"><a></a>  { <span class="dt">value</span><span class="op">:</span> [<span class="st">"Torgersen"</span><span class="op">,</span> <span class="st">"Biscoe"</span>]<span class="op">,</span> </span>
+<span id="cb7-543"><a></a>    <span class="dt">label</span><span class="op">:</span> <span class="st">"Islands:"</span></span>
+<span id="cb7-544"><a></a>  }</span>
+<span id="cb7-545"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <div id="ojs-cell-1-1" data-nodetype="declaration">
@@ -907,23 +912,23 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 <div class="tab-content">
 <div id="tabset-2-1">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb8" data-startfrom="553" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 552;"><span id="cb8-553"><a></a>Plot<span class="op">.</span><span class="fu">rectY</span>(filtered<span class="op">,</span> </span>
-<span id="cb8-554"><a></a>  Plot<span class="op">.</span><span class="fu">binX</span>(</span>
-<span id="cb8-555"><a></a>    {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
-<span id="cb8-556"><a></a>    {<span class="dt">x</span><span class="op">:</span> <span class="st">"body_mass_g"</span><span class="op">,</span> <span class="dt">fill</span><span class="op">:</span> <span class="st">"species"</span><span class="op">,</span> <span class="dt">thresholds</span><span class="op">:</span> <span class="dv">20</span>}</span>
-<span id="cb8-557"><a></a>  ))</span>
-<span id="cb8-558"><a></a>  <span class="op">.</span><span class="fu">plot</span>({</span>
-<span id="cb8-559"><a></a>    <span class="dt">facet</span><span class="op">:</span> {</span>
-<span id="cb8-560"><a></a>      <span class="dt">data</span><span class="op">:</span> filtered<span class="op">,</span></span>
-<span id="cb8-561"><a></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"sex"</span><span class="op">,</span></span>
-<span id="cb8-562"><a></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"species"</span><span class="op">,</span></span>
-<span id="cb8-563"><a></a>      <span class="dt">marginRight</span><span class="op">:</span> <span class="dv">80</span></span>
-<span id="cb8-564"><a></a>    }<span class="op">,</span></span>
-<span id="cb8-565"><a></a>    <span class="dt">marks</span><span class="op">:</span> [</span>
-<span id="cb8-566"><a></a>      Plot<span class="op">.</span><span class="fu">frame</span>()<span class="op">,</span></span>
-<span id="cb8-567"><a></a>    ]</span>
-<span id="cb8-568"><a></a>  }</span>
-<span id="cb8-569"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb8" data-startfrom="552" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 551;"><span id="cb8-552"><a></a>Plot<span class="op">.</span><span class="fu">rectY</span>(filtered<span class="op">,</span> </span>
+<span id="cb8-553"><a></a>  Plot<span class="op">.</span><span class="fu">binX</span>(</span>
+<span id="cb8-554"><a></a>    {<span class="dt">y</span><span class="op">:</span> <span class="st">"count"</span>}<span class="op">,</span> </span>
+<span id="cb8-555"><a></a>    {<span class="dt">x</span><span class="op">:</span> <span class="st">"body_mass_g"</span><span class="op">,</span> <span class="dt">fill</span><span class="op">:</span> <span class="st">"species"</span><span class="op">,</span> <span class="dt">thresholds</span><span class="op">:</span> <span class="dv">20</span>}</span>
+<span id="cb8-556"><a></a>  ))</span>
+<span id="cb8-557"><a></a>  <span class="op">.</span><span class="fu">plot</span>({</span>
+<span id="cb8-558"><a></a>    <span class="dt">facet</span><span class="op">:</span> {</span>
+<span id="cb8-559"><a></a>      <span class="dt">data</span><span class="op">:</span> filtered<span class="op">,</span></span>
+<span id="cb8-560"><a></a>      <span class="dt">x</span><span class="op">:</span> <span class="st">"sex"</span><span class="op">,</span></span>
+<span id="cb8-561"><a></a>      <span class="dt">y</span><span class="op">:</span> <span class="st">"species"</span><span class="op">,</span></span>
+<span id="cb8-562"><a></a>      <span class="dt">marginRight</span><span class="op">:</span> <span class="dv">80</span></span>
+<span id="cb8-563"><a></a>    }<span class="op">,</span></span>
+<span id="cb8-564"><a></a>    <span class="dt">marks</span><span class="op">:</span> [</span>
+<span id="cb8-565"><a></a>      Plot<span class="op">.</span><span class="fu">frame</span>()<span class="op">,</span></span>
+<span id="cb8-566"><a></a>    ]</span>
+<span id="cb8-567"><a></a>  }</span>
+<span id="cb8-568"><a></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-2" data-nodetype="expression">
 
@@ -933,7 +938,7 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 </div>
 <div id="tabset-2-2">
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb9" data-startfrom="575" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 574;"><span id="cb9-575"><a></a>Inputs<span class="op">.</span><span class="fu">table</span>(filtered)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb9" data-startfrom="574" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 573;"><span id="cb9-574"><a></a>Inputs<span class="op">.</span><span class="fu">table</span>(filtered)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-3" data-nodetype="expression">
 
@@ -944,7 +949,7 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb10" data-startfrom="581" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 580;"><span id="cb10-581"><a></a>data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"palmer-penguins.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({ <span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span> })</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb10" data-startfrom="580" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 579;"><span id="cb10-580"><a></a>data <span class="op">=</span> <span class="fu">FileAttachment</span>(<span class="st">"palmer-penguins.csv"</span>)<span class="op">.</span><span class="fu">csv</span>({ <span class="dt">typed</span><span class="op">:</span> <span class="kw">true</span> })</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-4" data-nodetype="declaration">
 
@@ -952,10 +957,10 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code hidden" id="cb11" data-startfrom="585" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 584;"><span id="cb11-585"><a></a>filtered <span class="op">=</span> data<span class="op">.</span><span class="fu">filter</span>(<span class="kw">function</span>(penguin) {</span>
-<span id="cb11-586"><a></a>  <span class="cf">return</span> bill_length_min <span class="op">&lt;</span> penguin<span class="op">.</span><span class="at">bill_length_mm</span> <span class="op">&amp;&amp;</span></span>
-<span id="cb11-587"><a></a>         islands<span class="op">.</span><span class="fu">includes</span>(penguin<span class="op">.</span><span class="at">island</span>)<span class="op">;</span></span>
-<span id="cb11-588"><a></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code hidden" id="cb11" data-startfrom="584" data-source-offset="0"><pre class="sourceCode numberSource js number-lines code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 583;"><span id="cb11-584"><a></a>filtered <span class="op">=</span> data<span class="op">.</span><span class="fu">filter</span>(<span class="kw">function</span>(penguin) {</span>
+<span id="cb11-585"><a></a>  <span class="cf">return</span> bill_length_min <span class="op">&lt;</span> penguin<span class="op">.</span><span class="at">bill_length_mm</span> <span class="op">&amp;&amp;</span></span>
+<span id="cb11-586"><a></a>         islands<span class="op">.</span><span class="fu">includes</span>(penguin<span class="op">.</span><span class="at">island</span>)<span class="op">;</span></span>
+<span id="cb11-587"><a></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <div id="ojs-cell-5" data-nodetype="declaration">
 
@@ -1007,7 +1012,7 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 <p><img data-src="images/rstudio-window.png" class="absolute" style="top: 0px; right: 0px; width: 600px; "></p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_1910a851" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_4a86f3e0" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">08</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -1094,7 +1099,7 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 </ul>
 <div class="cell">
 <div class="cell-output-display">
-<div class="countdown" id="timer_23e613fe" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
+<div class="countdown" id="timer_e5d77c3b" data-update-every="1" tabindex="0" style="right:0;bottom:0;">
 <div class="countdown-controls"><button class="countdown-bump-down">−</button><button class="countdown-bump-up">+</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
@@ -1190,31 +1195,32 @@ Unai Fischer Abaigar <a href="https://orcid.org/0000-0003-4893-2547" class="quar
 <section id="thank-you" class="slide level2">
 <h2>Thank you! <span class="emoji" data-emoji="pray">🙏</span></h2>
 <div class="columns">
-<div class="column" style="width:30%;">
-<p><img data-src="https://avatars.githubusercontent.com/u/46314469?v=4.png"></p>
-<h4 id="esther-plomp-1">Esther Plomp</h4>
-<p><i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:e.plomp@tudelft.nl">e.plomp@tudelft.nl</a><br></p>
+<div class="column" style="width:25%;">
+<p><img data-src="https://avatars.githubusercontent.com/u/6410645?v=4.png"></p>
+<h4 id="nick-bearman">Nick Bearman</h4>
+<p><i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:nick@nickbearman.com">nick@nickbearman.com</a><br></p>
 <p><i class="fa-solid fa-home-user" aria-label="home-user"></i></p>
-<p><a href="https://estherplomp.github.io/">estherplomp.github.io</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/EstherPlomp">GitHub</a><br></p>
+<p><a href="https://nickbearman.me.uk">https://nickbearman.me.uk</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/nickbearman">GitHub</a><br></p>
 <p><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></p>
-<p><a href="https://scholar.social/@toothFAIRy">Mastodon</a></p>
-</div><div class="column" style="width:30%;">
-<p><img data-src="https://avatars.githubusercontent.com/u/42233065?v=4.png"></p>
-<h4 id="lennart-wittkuhn-1">Lennart Wittkuhn</h4>
+<p><a href="https://fosstodon.org/deck/@nickbearman">Mastodon</a></p>
+</div><div class="column" style="width:25%;">
+<p><img data-src="https://avatars.githubusercontent.com/u/83285979?v=4.png"></p>
+<h4 id="unai-fischer-abaigar">Unai Fischer Abaigar</h4>
 <p><i class="fa-solid fa-envelope" aria-label="envelope"></i></p>
-<p><a href="mailto:lennart.wittkuhn@uni-hamburg.de">lennart.wittkuhn@uni-hamburg.de</a><br></p>
-<p><i class="fa-solid fa-home-user" aria-label="home-user"></i></p>
-<p><a href="https://lennartwittkuhn.com/">lennartwittkuhn.com</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/lnnrtwttkhn">GitHub</a><br></p>
-<p><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></p>
-<p><a href="https://fediscience.org/@lnnrtwttkhn">Mastodon</a><br></p>
-</div><div class="column" style="width:40%;">
+<p><a href="mailto:Unai.FischerAbaigar@stat.uni-muenchen.de">Unai.FischerAbaigar@stat.uni-muenchen.de</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/unai-fa">GitHub</a><br></p>
+</div><div class="column" style="width:25%;">
+<p><img data-src="https://avatars.githubusercontent.com/u/7115629?v=4.png"></p>
+<h4 id="jan-simson">Jan Simson</h4>
+<p><i class="fa-solid fa-envelope" aria-label="envelope"></i></p>
+<p><a href="mailto:hi@simson.io">hi@simson.io</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://simson.io">GitHub</a><br></p>
+</div><div class="column" style="width:25%;">
 <p><i class="fa-solid fa-image" aria-label="image"></i> <strong>Images:</strong> <a href="https://doi.org/10.5281/zenodo.3332807">Scriberia with The Turing Way community</a> (License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</p>
-<p><span class="emoji" data-emoji="computer">💻</span> <strong>Slides:</strong> Slides are publicly available at <a href="https://lennartwittkuhn.com/ddlitlab-presentation/">lennartwittkuhn.com/dra-fair-teaching</a></p>
+<p><span class="emoji" data-emoji="computer">💻</span> <strong>Slides:</strong> Slides are publicly available at <a href="https://github.com/jansim/dra-reproducible-materials">github.com/jansim/dra-reproducible-materials</a></p>
 <p><span class="emoji" data-emoji="package">📦</span> <strong>Software:</strong> Reproducible slides build with <a href="https://quarto.org/">Quarto</a> and deployed to <a href="https://pages.github.com/">GitHub Pages</a> using <a href="https://github.com/features/actions">GitHub Actions</a> (details in the <a href="https://quarto.org/docs/publishing/github-pages.html">Quarto docs</a>)</p>
-<p><i class="fa-brands fa-github" aria-label="github"></i> <strong>Source:</strong> Source code is available at <a href="https://github.com/lnnrtwttkhn/dra-fair-teaching">github.com/lnnrtwttkhn/dra-fair-teaching</a></p>
-<p><span class="emoji" data-emoji="trackball">🖲️</span> <strong>DOI:</strong> <a href="https://zenodo.org/badge/latestdoi/682015737">10.5281/zenodo.8296951</a> (generated using GitHub + <a href="https://zenodo.org/">Zenodo</a>, see <a href="https://guides.github.com/activities/citable-code/">GitHub docs</a>)</p>
+<p><i class="fa-brands fa-github" aria-label="github"></i> <strong>Source:</strong> Source code is available at <a href="github.com/jansim/dra-reproducible-material">github.com/jansim/dra-reproducible-material</a></p>
+<p><span class="emoji" data-emoji="trackball">🖲️</span> <strong>DOI:</strong> TBC (generated using GitHub + <a href="https://zenodo.org/">Zenodo</a>, see <a href="https://guides.github.com/activities/citable-code/">GitHub docs</a>)</p>
 <p><i class="fa-solid fa-scale-balanced" aria-label="scale-balanced"></i> <strong>License:</strong> Creative Commons Attribution 4.0 International (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</p>
-<p><span class="emoji" data-emoji="speech_balloon">💬</span> <strong>Contact:</strong> We welcome any feedback via <a href="mailto:lennart.wittkuhn@uni-hamburg.de?cc=e.plomp@tudelft.nl">email</a> or <a href="https://github.com/lnnrtwttkhn/dra-fair-teaching/issues">GitHub issues</a>. Thank you!</p>
+<p><span class="emoji" data-emoji="speech_balloon">💬</span> <strong>Contact:</strong> We welcome any feedback via <a href="mailto:nick@nickbearman.com?cc=Unai.FischerAbaigar@stat.uni-muenchen.de?cc=hi@simson.io">email</a> or <a href="https://github.com/jansim/dra-reproducible-material/issues">GitHub issues</a>. Thank you!</p>
 </div>
 </div>
 
